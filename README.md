@@ -1,74 +1,99 @@
-## Hi there 👋
-
-<!--
-**OsamaaEsmail/OsamaaEsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-# Osama Esmail
+# Hi 👋, I'm Osama Esmail
 
-**Backend .NET Developer** | Clean Architecture | Modular Monolith | CQRS
+### 🚀 Backend .NET Developer | Clean Architecture | Modular Systems
 
-[![Profile Views](https://komarev.com/ghpvc/?username=OsamaaEsmail&color=6366f1&style=for-the-badge)](https://github.com/OsamaaEsmail)
+💡 Building **scalable, production-ready systems** with modern .NET stack
+
+![Profile Views](https://komarev.com/ghpvc/?username=OsamaaEsmail\&color=6366f1\&style=for-the-badge)
+
+<img src="https://readme-typing-svg.herokuapp.com?color=6366f1&center=true&vCenter=true&lines=Backend+.NET+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Systems" />
 
 </div>
 
 ---
 
-### 👋 About Me
+## 👨‍💻 About Me
 
-Backend .NET Developer specialized in building **scalable, production-ready APIs** using ASP.NET Core. Passionate about clean code, enterprise architecture, and modular system design.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**ShopsySolution**](https://github.com/OsamaaEsmail/ShopsySolution) | Modular Monolith eCommerce API with 5 modules, CQRS, Permission-based Auth, 74 Unit Tests | `.NET 9` `EF Core` `MediatR` `JWT` `xUnit` |
-| [**SurveyNest**](https://github.com/OsamaaEsmail/SurveyNestSolution) | Survey Management System with Clean Architecture & Onion Architecture | `.NET 9` `EF Core` `Identity` |
+* 💼 Backend Developer specialized in **ASP.NET Core & Enterprise Systems**
+* 🧠 Strong focus on **Clean Architecture, and scalable design**
+* ⚙️ Experienced in building **modular monolith systems & real-world APIs**
+* 🚀 Currently working on **ERP & backend systems**
+* 📚 Always learning and improving in **system design & architecture**
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 Featured Projects
+
+### 🛒 ShopsySolution
+
+> Modular Monolith eCommerce API
+
+* 🧩 5 Modules Architecture
+* ⚡ CQRS + MediatR
+* 🔐 Permission-based Authorization
+* 🧪 74 Unit Tests
+
+🔧 Tech: `.NET 9` `EF Core` `MediatR` `JWT` `xUnit`
+
+---
+
+### 📊 SurveyNest
+
+> Survey Management System
+
+* 🏗 Clean + Onion Architecture
+* 🔑 Authentication & Identity
+* 📈 Scalable API Design
+
+🔧 Tech: `.NET 9` `EF Core` `Identity`
+
+---
+
+## 🛠 Tech Stack
+
 ```
 Backend         ASP.NET Core · Web API · RESTful APIs
 Architecture    Clean Architecture · Modular Monolith · CQRS · DDD · SOLID
-Database        SQL Server · EF Core (Code First) · Dapper
-Auth            JWT Bearer · ASP.NET Identity · Permission-based Authorization
+Database        SQL Server · EF Core · Dapper
+Auth            JWT Bearer · ASP.NET Identity · RBAC
 Messaging       MediatR · FluentValidation
 DevOps          Docker · GitHub Actions
 Caching         Redis
-Logging         Serilog (Structured Logging)
+Logging         Serilog
 Testing         xUnit · Moq · FluentAssertions
 Tools           Swagger · Postman · Git
 ```
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaaEsmail&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f59e0b&text_color=94a3b8)
+<img src="https://github-readme-stats.vercel.app/api?username=OsamaaEsmail&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaaEsmail&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaaEsmail&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
 ---
 
-### 📫 Contact
+## 🌐 Let's Connect
 
-- Email: devosama291@gmail.com
+<div align="center">
+
+<a href="mailto:devosama291@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
