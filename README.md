@@ -26,16 +26,21 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 ShopsySolution
+<div align="center">
 
-> Modular Monolith eCommerce API
+<a href="https://github.com/OsamaaEsmail/ShopsySolution">
+  <img src="https://img.shields.io/badge/ShopsySolution-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-* 🧩 5 Modules Architecture
-* ⚡ CQRS + MediatR
-* 🔐 Permission-based Authorization
-* 🧪 74 Unit Tests
+<a href="https://github.com/OsamaaEsmail/SurveyNestSolution">
+  <img src="https://img.shields.io/badge/SurveyNest-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-🔧 Tech: `.NET 9` `EF Core` `MediatR` `JWT` `xUnit`
+</div>
+
+<p align="center">
+Modular Monolith eCommerce API · CQRS · Clean Architecture · .NET 9
+</p>
 
 ---
 
@@ -82,7 +87,7 @@ Tools           Swagger · Postman · Git
 
 ## 🌐 Let's Connect
 
-📧 Email: devosama291@gmail.com
+📧 Email: devosama291@gmail.com>
 
 ---
 
