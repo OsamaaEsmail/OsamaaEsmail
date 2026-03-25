@@ -54,20 +54,32 @@ Modular Monolith eCommerce API · CQRS · Clean Architecture · .NET 9
 
 🔧 Tech: `.NET 9` `EF Core` `Identity`
 
+🚀 Featured Projects
+🛒 ShopsySolution
+
+Modular Monolith eCommerce API
+
+5 Modules Architecture
+CQRS + MediatR
+Permission-based Authorization
+74 Unit Tests
+
+🔧 Tech: .NET 9 EF Core MediatR JWT xUnit
+
 ---
 
 ## 🛠 Tech Stack
 
 ```
 Backend         ASP.NET Core · Web API · RESTful APIs
-Architecture    Clean Architecture · Modular Monolith · CQRS · DDD · SOLID
+Architecture    Clean Architecture · Modular Monolith · CQRS · SOLID
 Database        SQL Server · EF Core · Dapper
-Auth            JWT Bearer · ASP.NET Identity · RBAC
+Auth            JWT Bearer · ASP.NET Identity 
 Messaging       MediatR · FluentValidation
 DevOps          Docker · GitHub Actions
 Caching         Redis
 Logging         Serilog
-Testing         xUnit · Moq · FluentAssertions
+Testing         xUnit · Moq 
 Tools           Swagger · Postman · Git
 ```
 
