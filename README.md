@@ -19,7 +19,6 @@
 * 💼 Backend Developer specialized in **ASP.NET Core & Enterprise Systems**
 * 🧠 Strong focus on **Clean Architecture, and scalable design**
 * ⚙️ Experienced in building **modular monolith systems & real-world APIs**
-* 🚀 Currently working on **ERP & backend systems**
 * 📚 Always learning and improving in **system design & architecture**
 
 ---
@@ -54,7 +53,7 @@ Modular Monolith eCommerce API · CQRS · Clean Architecture · .NET 9
 
 🔧 Tech: `.NET 9` `EF Core` `Identity`
 
-🚀 Featured Projects
+
 🛒 ShopsySolution
 
 Modular Monolith eCommerce API
