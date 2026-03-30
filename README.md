@@ -71,10 +71,10 @@ Permission-based Authorization
 
 ```
 Backend         ASP.NET Core · Web API · RESTful APIs
-Architecture    Clean Architecture · Modular Monolith · CQRS · SOLID
+Architecture    Clean Architecture · Modular Monolith · CQRS · SOLID . OOP
 Database        SQL Server · EF Core · Dapper
 Auth            JWT Bearer · ASP.NET Identity 
-Messaging       MediatR · FluentValidation
+Messaging       Mediator ·FluentValidation
 DevOps          Docker · GitHub Actions
 Caching         Redis
 Logging         Serilog
