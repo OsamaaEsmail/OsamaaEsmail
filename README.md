@@ -21,51 +21,7 @@
 * ⚙️ Experienced in building **modular monolith systems & real-world APIs**
 * 📚 Always learning and improving in **system design & architecture**
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/OsamaaEsmail/ShopsySolution">
-  <img src="https://img.shields.io/badge/ShopsySolution-6366f1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/OsamaaEsmail/SurveyNestSolution">
-  <img src="https://img.shields.io/badge/SurveyNest-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<p align="center">
-Modular Monolith eCommerce API · CQRS · Clean Architecture · .NET 9
-</p>
-
----
-
-### 📊 SurveyNest
-
-> Survey Management System
-
-* 🏗 Clean + Onion Architecture
-* 🔑 Authentication & Identity
-* 📈 Scalable API Design
-
-🔧 Tech: `.NET 9` `EF Core` `Identity`
-
-
-🛒 ShopsySolution
-
-Modular Monolith eCommerce API
-
-5 Modules Architecture
-CQRS + MediatR
-Permission-based Authorization
-74 Unit Tests
-
-🔧 Tech: .NET 9 EF Core MediatR JWT xUnit
-
----
 
 ## 🛠 Tech Stack
 
