@@ -84,15 +84,7 @@ Tools           Swagger · Postman · Git
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OsamaaEsmail&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaaEsmail&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
+### 📊 GitHub Stats <div align="center"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaaEsmail&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=f59e0b&text_color=94a3b8) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaaEsmail&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8) </div>
 
 ---
 
