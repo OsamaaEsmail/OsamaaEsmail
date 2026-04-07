@@ -16,26 +16,26 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Backend Developer specialized in **ASP.NET Core & Enterprise Systems**
-* 🧠 Strong focus on **Clean Architecture, and scalable design**
+* 💼 Backend Developer specialized in ASP.NET Core & Enterprise Systems**
+* 🧠 Strong focus on Clean Architecture, Microservices Architecture, and scalablee design**
 * ⚙️ Experienced in building **modular monolith systems & real-world APIs**
-* 📚 Always learning and improving in **system design & architecture**
+* 📚 Always learning and improving in system design & distributed systems**
 
 
 
 ## 🛠 Tech Stack
 
 ```
-Backend         ASP.NET Core · Web API · RESTful APIs
-Architecture    Clean Architecture · Modular Monolith · CQRS · SOLID . OOP
-Database        SQL Server · EF Core · Dapper
+Backend         ASP.NET Core · Web API · RESTful APIs · gRPC
+Architecture    Clean Architecture · Microservices · Modular Monolith · CQRS · SOLID · OOP
+Database        SQL Server · EF Core · Dapper · Redis
 Auth            JWT Bearer · ASP.NET Identity 
-Messaging       Mediator ·FluentValidation
-DevOps          Docker · GitHub Actions
+Messaging       MediatR · FluentValidation · RabbitMQ
+DevOps          Docker · Docker Compose · GitHub Actions
 Caching         Redis
-Logging         Serilog
+Logging         Serilog · Elasticsearch · Kibana
 Testing         xUnit · Moq 
-Tools           Swagger · Postman · Git
+Tools           Swagger · Postman · Git . Microsoft Devops
 ```
 
 ---
