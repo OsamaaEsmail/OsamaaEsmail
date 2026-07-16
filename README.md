@@ -27,7 +27,7 @@
 ## 🛠 Tech Stack
 
 ### Backend
-\`\`\`
+```
 ASP.NET Core · Web API · RESTful APIs · gRPC
 Clean Architecture · Microservices · Modular Monolith · CQRS · SOLID · OOP
 SQL Server · EF Core · Dapper · Redis
@@ -36,10 +36,10 @@ MediatR · Mediator (Source Generator) · FluentValidation · Mapster · RabbitM
 Serilog · Elasticsearch · Kibana
 Hangfire · QuestPDF · Health Checks · Rate Limiting
 xUnit · Moq
-\`\`\`
+```
 
 ### Frontend
-\`\`\`
+```
 Angular 18 · TypeScript · RxJS · NgRx
 Reactive Forms · Template-Driven Forms · FormArray
 NgModule Architecture · Standalone Components · Lazy Loading
@@ -47,17 +47,14 @@ HTTP Interceptors · Route Guards · Resolvers
 Bootstrap 5 · Bootstrap Icons · SCSS · Responsive Design
 i18n (@ngx-translate) · RTL Support · Multi-language
 Change Detection (OnPush) · Dynamic Components · Defer/Viewport
-\`\`\`
+```
 
 ### DevOps & Tools
-\`\`\`
+```
 Docker · Docker Compose · GitHub Actions
 Swagger · Postman · Git · Microsoft DevOps
 Nginx · Multi-stage Builds
-\`\`\`
-
----
-
+```
 ## 📊 GitHub Stats
 
 <div align="center">
